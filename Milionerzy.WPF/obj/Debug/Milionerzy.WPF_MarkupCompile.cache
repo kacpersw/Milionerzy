@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Ibra18plus\OneDrive\Semestr V\Komunikacja Człowiek-Komputer\Projekt Milionerzy\Milionerzy2\Milionerzy.WPF\obj\Debug\
+C:\Users\Kacper\OneDrive\Semestr V\Komunikacja Człowiek-Komputer\Projekt Milionerzy\Milionerzy2\Milionerzy.WPF\obj\Debug\
 Milionerzy.WPF
 none
 false
 DEBUG;TRACE
-C:\Users\Ibra18plus\OneDrive\Semestr V\Komunikacja Człowiek-Komputer\Projekt Milionerzy\Milionerzy2\Milionerzy.WPF\App.xaml
-3-1467755566
+C:\Users\Kacper\OneDrive\Semestr V\Komunikacja Człowiek-Komputer\Projekt Milionerzy\Milionerzy2\Milionerzy.WPF\App.xaml
+6-1697935316
 
-71546927390
-14255353807
-ChangeName.xaml;MainWindow.xaml;Statistics.xaml;
+10-1361729368
+141479806799
+ChangeName.xaml;Game.xaml;MainWindow.xaml;Menu.xaml;NewGame.xaml;Statistics.xaml;
 
-True
+False
 

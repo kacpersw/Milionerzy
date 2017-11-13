@@ -16,18 +16,24 @@ using System.Windows.Shapes;
 namespace Milionerzy.WPF
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Menu.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Menu : UserControl
     {
-        public static DockPanel mainPanel = new DockPanel();
-        public MainWindow()
+        public Menu()
         {
             InitializeComponent();
-            MainWindowPanel.Children.Add(mainPanel);
-            mainPanel.Children.Add(new Menu());
         }
 
+        private void Close(object sender, RoutedEventArgs e)
+        {
 
+        }
+
+        private void StartGame(object sender, RoutedEventArgs e)
+        {
+            MainWindow.mainPanel.Children.Clear();
+            MainWindow.mainPanel.Children.Add(new NewGame());
+        }
     }
 }

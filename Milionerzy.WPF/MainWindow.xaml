@@ -6,30 +6,8 @@
         xmlns:local="clr-namespace:Milionerzy.WPF"
         mc:Ignorable="d"
         Title="Milionerzy" Height="550" Width="900" MinHeight="550" MinWidth="900" MaxHeight="570" MaxWidth="900">
-    <Grid>
-        <Grid.Background>
-            <ImageBrush ImageSource="bin/debug/mainview.jpg"/>
-        </Grid.Background>
-        
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
-        </Grid.ColumnDefinitions>
-        <Grid.RowDefinitions>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-        </Grid.RowDefinitions>
+    
+    <DockPanel Name="MainWindowPanel">
 
-        <Button Grid.Row="2" Grid.Column="1" Background="PowderBlue" Height="35" Width="170" FontSize="14" FontWeight="Bold">Rozpocznij grę</Button>
-        <Button Grid.Row="3" Grid.Column="1" Background="PowderBlue" Height="35" Width="170" FontSize="14" FontWeight="Bold">Zobacz wyniki</Button>
-        <Button Grid.Row="4" Grid.Column="1" Background="PowderBlue" Height="35" Width="170" FontSize="14" FontWeight="Bold">Zmień imię</Button>
-        <Button Grid.Row="5" Grid.Column="1" Background="PowderBlue" Height="35" Width="170" FontSize="14" FontWeight="Bold" Click="Close">Zakończ</Button>
-    </Grid>
+    </DockPanel>
 </Window>
