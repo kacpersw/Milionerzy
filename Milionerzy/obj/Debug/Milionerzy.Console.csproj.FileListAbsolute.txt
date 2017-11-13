@@ -1,0 +1,34 @@
+C:\Users\Ibra18plus\Desktop\Milionerzy-master\Milionerzy\bin\Debug\Milionerzy.exe.config
+C:\Users\Ibra18plus\Desktop\Milionerzy-master\Milionerzy\bin\Debug\Milionerzy.exe
+C:\Users\Ibra18plus\Desktop\Milionerzy-master\Milionerzy\bin\Debug\Milionerzy.pdb
+C:\Users\Ibra18plus\Desktop\Milionerzy-master\Milionerzy\obj\Debug\Milionerzy.Console.csproj.CoreCompileInputs.cache
+C:\Users\Ibra18plus\Desktop\Milionerzy-master\Milionerzy\obj\Debug\Milionerzy.exe
+C:\Users\Ibra18plus\Desktop\Milionerzy-master\Milionerzy\obj\Debug\Milionerzy.pdb
+C:\Users\Ibra18plus\Desktop\Milionerzy-master\Milionerzy\obj\Debug\Milionerzy.Console.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\Nowy folder\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.exe.config
+C:\Users\Kacper\Desktop\Nowy folder\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.exe
+C:\Users\Kacper\Desktop\Nowy folder\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.pdb
+C:\Users\Kacper\Desktop\Nowy folder\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.exe
+C:\Users\Kacper\Desktop\Nowy folder\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.pdb
+C:\Users\Kacper\Desktop\Nowy folder\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.Console.csprojResolveAssemblyReference.cache
+C:\Users\Ibra18plus\Desktop\xvbc\Nowy folder\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.exe.config
+C:\Users\Ibra18plus\Desktop\xvbc\Nowy folder\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.exe
+C:\Users\Ibra18plus\Desktop\xvbc\Nowy folder\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.pdb
+C:\Users\Ibra18plus\Desktop\xvbc\Nowy folder\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.Console.csprojResolveAssemblyReference.cache
+C:\Users\Ibra18plus\Desktop\xvbc\Nowy folder\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.Console.csproj.CoreCompileInputs.cache
+C:\Users\Ibra18plus\Desktop\xvbc\Nowy folder\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.exe
+C:\Users\Ibra18plus\Desktop\xvbc\Nowy folder\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.pdb
+C:\Users\Kacper\OneDrive\xvbc\Nowy folder\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.exe.config
+C:\Users\Kacper\OneDrive\xvbc\Nowy folder\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.exe
+C:\Users\Kacper\OneDrive\xvbc\Nowy folder\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.pdb
+C:\Users\Kacper\OneDrive\xvbc\Nowy folder\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.Console.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\OneDrive\xvbc\Nowy folder\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.Console.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\OneDrive\xvbc\Nowy folder\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.exe
+C:\Users\Kacper\OneDrive\xvbc\Nowy folder\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.pdb
+C:\Users\Ibra18plus\OneDrive\Semestr V\Komunikacja Człowiek-Komputer\Projekt Milionerzy\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.exe.config
+C:\Users\Ibra18plus\OneDrive\Semestr V\Komunikacja Człowiek-Komputer\Projekt Milionerzy\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.exe
+C:\Users\Ibra18plus\OneDrive\Semestr V\Komunikacja Człowiek-Komputer\Projekt Milionerzy\Milionerzy2\Milionerzy\bin\Debug\Milionerzy.pdb
+C:\Users\Ibra18plus\OneDrive\Semestr V\Komunikacja Człowiek-Komputer\Projekt Milionerzy\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.Console.csprojResolveAssemblyReference.cache
+C:\Users\Ibra18plus\OneDrive\Semestr V\Komunikacja Człowiek-Komputer\Projekt Milionerzy\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.Console.csproj.CoreCompileInputs.cache
+C:\Users\Ibra18plus\OneDrive\Semestr V\Komunikacja Człowiek-Komputer\Projekt Milionerzy\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.exe
+C:\Users\Ibra18plus\OneDrive\Semestr V\Komunikacja Człowiek-Komputer\Projekt Milionerzy\Milionerzy2\Milionerzy\obj\Debug\Milionerzy.pdb
