@@ -23,13 +23,11 @@
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
-            <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
 
-        <Button Grid.Row="2" Grid.Column="1" Background="#002F7F" Foreground="#DBBC2E" Height="35" Width="170" FontSize="14" FontWeight="Bold" Click="StartGame">Rozpocznij grę</Button>
-        <Button Grid.Row="3" Grid.Column="1" Background="#002F7F" Foreground="#DBBC2E" Height="35" Width="170" FontSize="14" FontWeight="Bold">Zobacz wyniki</Button>
-        <Button Grid.Row="4" Grid.Column="1" Background="#002F7F" Foreground="#DBBC2E" Height="35" Width="170" FontSize="14" FontWeight="Bold">Zmień imię</Button>
-        <Button Grid.Row="5" Grid.Column="1" Background="#002F7F" Foreground="#DBBC2E" Height="35" Width="170" FontSize="14" FontWeight="Bold" Click="Close">Zakończ</Button>
+        <Button Grid.Row="1" Grid.Column="1" Background="#002F7F" Foreground="#DBBC2E" Height="50" Width="170" FontSize="18" FontWeight="Bold" Click="StartGame">Rozpocznij grę</Button>
+        <Button Grid.Row="2" Grid.Column="1" Background="#002F7F" Foreground="#DBBC2E" Height="50" Width="170" FontSize="18" FontWeight="Bold" Click="checkResults">Zobacz wyniki</Button>
+        <Button Grid.Row="3" Grid.Column="1" Background="#002F7F" Foreground="#DBBC2E" Height="50" Width="170" FontSize="18" FontWeight="Bold" Click="changeName">Zmień imię</Button>
+        <Button Grid.Row="4" Grid.Column="1" Background="#002F7F" Foreground="#DBBC2E" Height="50" Width="170" FontSize="18" FontWeight="Bold" Click="Close">Zakończ</Button>
     </Grid>
 </UserControl>

@@ -1,0 +1,52 @@
+﻿<Window x:Class="Milionerzy.WPF.Message"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Milionerzy.WPF"
+        mc:Ignorable="d"
+        Title="Message" Height="100" Width="380" Background="Transparent"
+        WindowStyle="None" AllowsTransparency="True"
+        Left="500" Top="300"
+        >
+    <Border  BorderBrush="#002F7F" CornerRadius="20,20,20,20" Background="#DBBC2E">
+        <Grid >
+            <Grid.RowDefinitions >
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBox FontSize="18" Name="title" Grid.ColumnSpan="2" VerticalContentAlignment="Center" Margin="5" Background="#002F7F" Foreground="#DBBC2E" TextAlignment="Center">
+                Czy na pewno chcesz chcesz zakończyć grę? 
+                <TextBox.Resources >
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="20"/>
+                    </Style>
+                </TextBox.Resources>
+            </TextBox>
+
+            <Button FontSize="18" Grid.Column="0" Grid.Row="1" Margin="5" Background="#002F7F" Foreground="#DBBC2E" Click="endOfGame">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="20"/>
+                        <Setter Property="BorderThickness" Value="2"/>
+                    </Style>
+                </Button.Resources>
+                Tak
+            </Button>
+            <Button FontSize="18" Grid.Row="1" Grid.Column="1" Margin="5" Click="close" Background="#002F7F" Foreground="#DBBC2E">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="20"/>
+                        <Setter Property="BorderThickness" Value="2"/>
+                    </Style>
+                </Button.Resources>
+                Nie
+            </Button>
+        </Grid>
+
+    </Border>
+</Window>

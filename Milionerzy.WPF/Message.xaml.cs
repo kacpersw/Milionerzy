@@ -15,18 +15,24 @@ using System.Windows.Shapes;
 namespace Milionerzy.WPF
 {
     /// <summary>
-    /// Interaction logic for ChangeName.xaml
+    /// Interaction logic for Message.xaml
     /// </summary>
-    public partial class ChangeName : Window
+    public partial class Message : Window
     {
-        public ChangeName()
+        public Message()
         {
             InitializeComponent();
         }
 
-        private void Back(object sender, RoutedEventArgs e)
+        private void close(object sender, RoutedEventArgs e)
         {
+            this.Close();
+        }
 
+        private void endOfGame(object sender, RoutedEventArgs e)
+        {
+            this.DialogResult = true;
+            this.Close();
         }
     }
 }

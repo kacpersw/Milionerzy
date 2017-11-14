@@ -11,7 +11,6 @@ namespace Milionerzy.Logic
     public static class RWQuestions
     {
         private static List<Question> questionList = new List<Question>();
-
         public static List<Question> loadQuestions()
         {
             questionList.Clear();

@@ -15,18 +15,18 @@ using System.Windows.Shapes;
 namespace Milionerzy.WPF
 {
     /// <summary>
-    /// Interaction logic for Statistics.xaml
+    /// Interaction logic for MessagePeople.xaml
     /// </summary>
-    public partial class Statistics : Window
+    public partial class MessagePeople : Window
     {
-        public Statistics()
+        public MessagePeople()
         {
             InitializeComponent();
         }
 
-        private void Back(object sender, RoutedEventArgs e)
+        private void close(object sender, RoutedEventArgs e)
         {
-
+            this.Close();
         }
     }
 }

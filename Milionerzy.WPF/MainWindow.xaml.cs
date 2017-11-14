@@ -25,7 +25,7 @@ namespace Milionerzy.WPF
         {
             InitializeComponent();
             MainWindowPanel.Children.Add(mainPanel);
-            mainPanel.Children.Add(new Menu());
+            mainPanel.Children.Add(new Name());
         }
 
 

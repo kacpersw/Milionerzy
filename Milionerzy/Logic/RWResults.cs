@@ -32,7 +32,7 @@ namespace Milionerzy.Logic
 
             using (StreamWriter sw = new StreamWriter("wyniki.txt"))
             {
-                for (int i = 0; i < results.Count ; i++)
+                for (int i = results.Count-1; i >=0 ; i--)
                 {
                     sw.WriteLine(results[i].Name);
                     sw.WriteLine(results[i].Points);

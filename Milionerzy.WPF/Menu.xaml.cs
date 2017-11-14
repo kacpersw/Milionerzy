@@ -20,20 +20,34 @@ namespace Milionerzy.WPF
     /// </summary>
     public partial class Menu : UserControl
     {
-        public Menu()
+        private string name;
+        public Menu(string name)
         {
+            this.name = name;
             InitializeComponent();
         }
 
         private void Close(object sender, RoutedEventArgs e)
         {
-
+            System.Environment.Exit(0);
         }
 
         private void StartGame(object sender, RoutedEventArgs e)
         {
             MainWindow.mainPanel.Children.Clear();
-            MainWindow.mainPanel.Children.Add(new NewGame());
+            MainWindow.mainPanel.Children.Add(new NewGame(name));
+        }
+
+        private void changeName(object sender, RoutedEventArgs e)
+        {
+            MainWindow.mainPanel.Children.Clear();
+            MainWindow.mainPanel.Children.Add(new NameChange(name));
+        }
+
+        private void checkResults(object sender, RoutedEventArgs e)
+        {
+            MainWindow.mainPanel.Children.Clear();
+            MainWindow.mainPanel.Children.Add(new Results(name));
         }
     }
 }
